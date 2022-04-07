@@ -1,0 +1,14 @@
+﻿  KDF.c
+  main.c
+C:\Users\rocky\Documents\Visual Studio 2015\Projects\IBC_backup\miracl_IBC_finish\miracl_IBC\main.c(30,52): warning C4474: printf: 格式字符串中传递的参数太多
+C:\Users\rocky\Documents\Visual Studio 2015\Projects\IBC_backup\miracl_IBC_finish\miracl_IBC\main.c(30,52): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  R-ate.c
+  sm9_sv.c
+C:\Users\rocky\Documents\Visual Studio 2015\Projects\IBC_backup\miracl_IBC_finish\miracl_IBC\sm9_sv.c(1017,17): warning C4133: “函数”: 从“epoint *”到“unsigned char *”的类型不兼容
+C:\Users\rocky\Documents\Visual Studio 2015\Projects\IBC_backup\miracl_IBC_finish\miracl_IBC\sm9_sv.c(1032,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\rocky\Documents\Visual Studio 2015\Projects\IBC_backup\miracl_IBC_finish\miracl_IBC\sm9_sv.c(1039,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\rocky\Documents\Visual Studio 2015\Projects\IBC_backup\miracl_IBC_finish\miracl_IBC\sm9_sv.c(1105,17): warning C4133: “函数”: 从“epoint *”到“unsigned char *”的类型不兼容
+C:\Users\rocky\Documents\Visual Studio 2015\Projects\IBC_backup\miracl_IBC_finish\miracl_IBC\sm9_sv.c(1120,20): warning C4018: “<”: 有符号/无符号不匹配
+  zzn12_operation.c
+  正在生成代码...
+  miracl_IBC.vcxproj -> C:\Users\rocky\Documents\Visual Studio 2015\Projects\IBC_backup\miracl_IBC_finish\Debug\miracl_IBC.exe
